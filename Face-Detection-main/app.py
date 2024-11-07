@@ -1,12 +1,3 @@
-"""
-Face detection Module
-
-@auther : alisharify
-2023/9/2 - 1402/6/8
-
-"""
-
-
 import time
 import datetime
 from threading import Thread
